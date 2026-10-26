@@ -2,3 +2,5 @@
 */.ipynb_checkpoints/*
 data/
 outputs/resized_images/
+.DS_Store
+*/.DS_Store/*
