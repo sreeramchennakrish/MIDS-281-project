@@ -4,3 +4,4 @@ data/FIRE-SMOKE-DATASET/
 outputs/resized_images/
 .DS_Store
 */.DS_Store/*
+features/multicrop_features.npz
