@@ -5,3 +5,13 @@ outputs/resized_images/
 .DS_Store
 */.DS_Store/*
 features/multicrop_features.npz
+
+models/
+*.joblib
+*.pkl
+*.pt
+*.pth
+
+data/
+*.npy
+*.npz
